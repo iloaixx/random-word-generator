@@ -1,2 +1,11 @@
-# random-word-generator
-forked from https://github.com/RazorSh4rk/random-word-api
+# random-word-api
+
+Simple scala REST API, spits out random words.
+
+It's alive at https://random-word-api.herokuapp.com/
+
+You will need scala and sbt for the development
+```
+pacman -S scala sbt
+sbt run
+```
